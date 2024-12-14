@@ -82,6 +82,7 @@ body{
     vertical-align: middle;
     height: 275px;
     width: 460px;
+    margin-left: 30px;
 
 }
 
@@ -178,6 +179,38 @@ body{
  }
 
 
+ #podcast_h1{
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+ }
+
+ #podcast_title{
+    display: inline;
+    color: #181D27;
+    font-size: 23px;
+ }
+
+
+ #podcast_p{
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+    margin-top: 15px;
+ }
+
+#podcast_img{
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#podcast_te{
+    display: inline-block;
+    vertical-align: middle;
+
+}
 
 
  
