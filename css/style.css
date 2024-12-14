@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   max-width: 1920px;
+   width: 100%;
+   height: 2564px;
+   
+    
+}
+
+#main_conteiner{
+    background: #1B0E0F;
+    width: 1400px;
+    height: 2088px;
+    padding-top: 385px;
+    margin-left: 90px;
+    margin-top: 300px;
+    padding: 96px;
+   
+}
+
+#content_box{
+    background-color: aliceblue;
+    width: 1200px;
+    height: 1896px;
+    padding: 96px 30px;
+}
+
+#content_p{
+    text-align: center;
+    color: #002AFE;
+    font-weight: 600;
+    font-size: 16px;
+    padding-bottom: 31px;
+}
+
+#content_title{
+    text-align: center;
+    color: #181D27;
+    font-size: 48px;
+    font-weight: 600;
+    padding-bottom: 38px;
+}
+
+#content_parag{
+    text-align: center;
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 56px;
+}
+
+
+#full_boxes{
+   margin-bottom: 56px;
+   
+}
+
+
+/*  maiiiiiiiiin */
+
+#desinger_foto{
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 56px;
+}
+
+#desinger_area{
+    display: inline-block;
+    vertical-align: middle;
+    height: 275px;
+    width: 460px;
+    margin-left: 30px;
+}
+
+#Podcast_area{
+    display: inline-block;
+    vertical-align: middle;
+    height: 275px;
+    width: 460px;
+
+}
+
+#Podcast_foto{
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 56px;
+}
+
+
+
+#desing_h1{
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+
+}
+
+#desing_title{
+    display: inline;
+    color: #181D27;
+    font-size: 23px;
+}
+
+#desing_p{
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+    margin-top: 15px;
+}
+
+
+#icon_div{
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#icon_foto{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+#Javascript_box{
+    margin-bottom: 56px;
+}
+
+#java_foto{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#java_area{
+    display: inline-block;
+    vertical-align: middle;
+    height: 275px;
+    width: 460px;
+    margin-left: 30px;
+}
+
+
+#product_h1{
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#product_title{
+    display: inline;
+    color: #181D27;
+    font-size: 23px;
+}
+
+#product_p{
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+    margin-top: 15px;
+}
+
+ #java_icon{
+    display: inline-block;
+    vertical-align: middle;
+ }
+
+
+ #java_div{
+    display: inline-block;
+    vertical-align: middle;
+ }
+
+
+
+
+ 
+
+
